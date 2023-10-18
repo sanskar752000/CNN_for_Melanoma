@@ -1,6 +1,4 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Melanoma Detectation
 
 ## Table of Contents
 * [General Info](#general-information)
